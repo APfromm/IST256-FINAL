@@ -1,0 +1,42 @@
+header, h1, nav, nav a, main, .storefront, .storefront-products, footer
+{font-family: Georgia, serif;
+    text-align: center;
+    justify-content: center;}
+header
+{color: #faaa6e;
+    background-color: #286464;}
+h1
+{text-align: center;
+    justify-content: center;
+    padding: 15px;}
+nav
+{padding: 10px;
+    background-color: #327d7d;}
+nav a
+{color: #fff;
+    text-decoration: none;
+    padding: 10px;}
+nav a:hover
+{color: #faaa6e;}
+main
+{background-color: #50beaa;
+    background-size: cover;}
+footer
+{background-color: #286464;
+    color: #faaa6e;
+    text-align: center;
+    padding: 10px;}
+nav a, footer
+{font-size: 1.2em;}
+
+.storefront
+{background-color: #50beaa;
+    background-size: cover;}
+.storefront-products
+{display: grid;
+    color: #e66419;
+    background-color: #50beaa;
+    background-size: cover;}
+.index, .about, .products,
+.service, .support, .contact
+{padding: 20px;}
