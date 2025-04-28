@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ECONOMY",
+    "subtitle": "OUR ENTRY LEVEL CHOICE",
+    "price": 100
+  },
+  {
+    "name": "ECONOMY PORTASOUND",
+    "subtitle": "OUR ENTRY LEVEL PORTABLE CHOICE",
+    "price": 125
+  },
+  {
+    "name": "STANDARD",
+    "subtitle": "RELIABLE, AFFORDABLE, STYLISH",
+    "price": 200
+  },
+  {
+    "name": "STANDARD PORTASOUND",
+    "subtitle": "PORTABLE, RELIABLE, AFFORDABLE, STYLISH",
+    "price": 235
+  },
+  {
+    "name": "MAYFAIR",
+    "subtitle": "PREMIUM, SENSITIVE, FEATURE RICH",
+    "price": 350
+  },
+  {
+    "name": "MAYFAIR PORTASOUND",
+    "subtitle": "PORTABLE, PREMIUM, SENSITIVE, FEATURE RICH",
+    "price": 400
+  }
+]
