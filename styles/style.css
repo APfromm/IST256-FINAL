@@ -28,7 +28,14 @@ footer
     padding: 10px;}
 nav a, footer
 {font-size: 1.2em;}
+.img-fluid
+{width: 1000px;
+    height: 550px;}
 
+.index, .about, .products, .service, .support, .contact, .checkout
+{padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;}
 .storefront
 {background-color: #50beaa;
     background-size: cover;}
@@ -37,6 +44,3 @@ nav a, footer
     color: #e66419;
     background-color: #50beaa;
     background-size: cover;}
-.index, .about, .products,
-.service, .support, .contact
-{padding: 20px;}
